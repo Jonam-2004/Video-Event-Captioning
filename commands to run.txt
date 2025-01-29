@@ -1,2 +1,0 @@
-flask server ===> python server.py
-video Event captioning   ===> npm start
