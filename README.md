@@ -144,6 +144,9 @@ Video-Event-Detection/
 ### Search Videos
 ![Search Videos](docs/images/search_videos.png)
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Authors
 - [Manoj S](https://github.com/Jonam-2004)
